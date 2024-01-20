@@ -1,0 +1,4 @@
+name: RpgSharpPlaceHolderAPI
+version: '${version}'
+main: org.swlab.rpgsharpplaceholderapi.RpgSharpPlaceHolderAPI
+api-version: '1.19'
